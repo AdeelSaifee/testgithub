@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b6b0dc4-d42c-4654-a867-456a80c0bfba" name="Changes" comment="Revert &quot;second commit&quot;&#10;revert back to the second commit&#10;This reverts commit 0a4fd9934edac10c3131205761f85b3f221608d2.&#10;&#10;# Conflicts:&#10;#&#9;index.html">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="0b6b0dc4-d42c-4654-a867-456a80c0bfba" name="Changes" comment="Revert &quot;second commit&quot;&#10;revert back to the second commit&#10;This reverts commit 0a4fd9934edac10c3131205761f85b3f221608d2.&#10;&#10;# Conflicts:&#10;#&#9;index.html" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
